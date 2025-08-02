@@ -109,7 +109,7 @@ eureka.instance.hostname=localhost
 eureka.client.fetch-registry=false
 eureka.client.register-with-eureka=false
 ```
-
+---
 ### 4. 🚪 API Gateway (api-gateway)
 Acts as the entry point for all requests, routing them to appropriate services.
 #### 🔧 Port
